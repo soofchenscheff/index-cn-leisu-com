@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soofchenscheff.github.io/index-cn-leisu-com/sitemap.xml
